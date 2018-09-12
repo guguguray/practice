@@ -1,4 +1,4 @@
-# practice
+# webclawer lesson & practice
 [notebook]
 1. install python 3.7.0
 2. install pycharm  (IDE editor)
