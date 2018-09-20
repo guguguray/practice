@@ -57,6 +57,8 @@ print(tags_a)        # 輸出 array 形式
 print(tags_a[1])     # 輸出 array 中 index:1 item
 for tag in tags_a:   # 輸出 各 item
     print(tag)
+    print(tag['href'], tag.text)
+
 
 print()
 print("[find_all 多重標籤 a. title] __________________________")
