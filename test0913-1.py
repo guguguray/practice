@@ -22,4 +22,6 @@ headlines = soup.select(tag_name)
 # 定義網站的 Domain Name
 site = 'https://www.ptt.cc'
 for item in headlines:
-    print(site + item['href'], item.text)
+    print(item)
+    print(item['href'])
+    # print(site + item['href'], item.text)
