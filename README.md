@@ -13,3 +13,4 @@
 6. 擴充套件(輔助網頁測試的工具) for chrome:
    - InfoLite: 快速查看網頁標籤
    
+7. install selenium
